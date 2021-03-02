@@ -8,3 +8,4 @@ Aula prática de Inteligência Artificial usando Python.
 * Regressão linear
 * Regressão logística
 * Classificação KNN
+* Classificação Naive Bayes
